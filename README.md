@@ -1,4 +1,4 @@
-# Hey, how you doing?? 😁
+# Hey, how are you doing?? 😁
 <img align="right" alt="Jhonata-Gengar" height="120" width="120" src="https://archives.bulbagarden.net/media/upload/2/21/Spr_5b_094.png" />
 My name is Jhonata, and i love learning new things everyday.
 
