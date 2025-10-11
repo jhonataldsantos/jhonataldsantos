@@ -11,7 +11,9 @@ My name is Jhonata, and i love learning new things everyday.
 ## Some of my coding languages 💻
 <div align="flex">
 <img align="center" alt="Jhonata-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Jhonata-JS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />            <img align="center" alt="Jhonata-HTML" height="75" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt="Jhonata-JS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="Jhonata-JS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+<img align="center" alt="Jhonata-HTML" height="75" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" alt="Jhonata-CSS" height="75" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="center" alt="Jhonata-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></div>
 
